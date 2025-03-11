@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="2"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,1);CarryCapacityMultiplier(5)" />
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L1_SM;Nightfall_SM;ConsumedShadowWeave_SM;ShadowWarMagic_SM;"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ce9c7aa8-de25-4946-84a4-537f5cf31081,,,,AlwaysPrepared);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2,false)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="9ab30b9c-0117-414f-8c88-c6a19c8c6d0f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="StrengthOfTheGrave_SM;EyesOfTheDark_SM;ReliableTalent"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="879ec4bd-e2ae-4e6c-b985-45d92e3258c4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,2);ActionResourceOverride(ShadowSpellSlot,0,1)" />
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L2_SM;ShadowPotence_SM"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L1_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d44b00cf-c899-416a-934d-8c46ec76919e,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="e6071ac3-9689-466f-80cd-9fd9e88a1e44"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="c376c2c8-a799-4d77-80f6-1c2e5c64424a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,3);ActionResourceOverride(ShadowSpellSlot,0,2)" />
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L3_SM;LunarEclipse_SM"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L2_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(903b3752-18db-4637-bc43-feae85fe5a7b,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="1f8aea58-3568-45ff-af70-dbf4e73e16b8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="EdictOfNight_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="10eceeb6-f206-47ce-8507-72491fcf3d20"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,4);ActionResourceOverride(ShadowSpellSlot,0,3);" />
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L4_SM;BlossomOfRuin_SM"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L3_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a6a11a61-fafa-4acb-a91d-3949ad37a129,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="bcd88e4c-461e-4b89-93f8-d5fe9a76841b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="8bb13d90-9617-4080-be62-a014a808b778"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,5);ActionResourceOverride(ShadowSpellSlot,0,4)" />
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L5_SM;BlackLotus_SM"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L4_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(229cdffc-914e-415f-b30f-ca74a6adf9fa,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="fc4c4a3c-9fd5-4435-a49b-a43bdc1fc9e2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SolarEclipse_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="0b77d044-38cb-46de-b61d-8d029f9c9ba2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,6);ActionResourceOverride(ShadowSpellSlot,0,5)" />
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MaximizeSpell_SM"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(32cced4a-6c8b-488c-9415-d4cd1e447a39,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="466ce7dc-1eec-44c5-a223-d652c7b1a5f2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="d20fc9b8-28fd-499a-8758-9525a4370a42"/>
+                </node>
+                <!-- Race Progression -->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Survival)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Drow" />
+                    <attribute id="PassivesAdded" type="LSString" value="Drow_DrowWeaponTraining;SuperiorDarkvision;FeyAncestry" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d707ec70-da8a-457b-9b69-7cf5205eef0e,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="a43498f5-d72f-4a05-b721-1feea9acb3ad" />
+                    <attribute id="UUID" type="guid" value="4a634f24-bdcb-4559-b8be-7847133ad1c3" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Drow" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(753bd4ba-9f16-4a01-92df-556b98cc7497,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="a43498f5-d72f-4a05-b721-1feea9acb3ad" />
+                    <attribute id="UUID" type="guid" value="334e0ddd-33cb-468f-a232-40cfe9ad23da" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Drow" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1414a1e6-9610-441c-aa09-5c57f4ee9c3d,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="a43498f5-d72f-4a05-b721-1feea9acb3ad" />
+                    <attribute id="UUID" type="guid" value="db485b48-fc71-4de4-a62d-47675659678b" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Survival)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="HalfElf" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="5f06db9e-31b0-41d9-bfbe-3446323c4bf6" />
+                    <attribute id="UUID" type="guid" value="a1729574-2f7b-4561-91d8-3766cf940420" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="HighHalfElf" />
+                    <attribute id="PassivesAdded" type="LSString" value="Elf_WeaponTraining;Darkvision;FeyAncestry" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip)" />
+                    <attribute id="TableUUID" type="guid" value="9efb7794-dc6f-45f3-8cf9-74ad5286c792" />
+                    <attribute id="UUID" type="guid" value="43bfa29a-fd63-4f47-850e-6714f0333022" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,1.5,0);ProficiencyBonus(Skill,Stealth)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="WoodHalfElf" />
+                    <attribute id="PassivesAdded" type="LSString" value="Elf_WeaponTraining;Darkvision;FeyAncestry" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="685d3b16-1f7f-49b3-906d-d7726276926b" />
+                    <attribute id="UUID" type="guid" value="cb0f84ec-1b1d-4ecc-9ab5-76261e332f5a" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="HalfDrow" />
+                    <attribute id="PassivesAdded" type="LSString" value="Drow_DrowWeaponTraining;SuperiorDarkvision;FeyAncestry" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d707ec70-da8a-457b-9b69-7cf5205eef0e,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="4ef615e7-e401-4304-bedc-5c229caa1dc2" />
+                    <attribute id="UUID" type="guid" value="58dae581-c25a-4dfb-8a57-589bf4b34f62" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="HalfDrow" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(753bd4ba-9f16-4a01-92df-556b98cc7497,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="4ef615e7-e401-4304-bedc-5c229caa1dc2" />
+                    <attribute id="UUID" type="guid" value="87d2588b-bd2e-43df-ace0-2c2d3efea0ca" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="HalfDrow" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1414a1e6-9610-441c-aa09-5c57f4ee9c3d,,,,AlwaysPrepared)" />
+                    <attribute id="TableUUID" type="guid" value="4ef615e7-e401-4304-bedc-5c229caa1dc2" />
+                    <attribute id="UUID" type="guid" value="60758c3f-d9c5-4f1a-a253-cf2a5e60b627" />
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="False" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Survival)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Elf" />
+                    <attribute id="PassivesAdded" type="LSString" value="Elf_WeaponTraining;Darkvision;FeyAncestry" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="eb9db11d-1091-49fa-9006-2f52bbb76f6a" />
+                    <attribute id="UUID" type="guid" value="496486a4-b5f2-4f91-90ea-6cad9023952e" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="HighElf" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip)" />
+                    <attribute id="TableUUID" type="guid" value="5fd1dfd5-b5bd-4152-a04a-87fb3faba1e9" />
+                    <attribute id="UUID" type="guid" value="db13a1fb-7d64-4309-a1c8-e2a5c752ded5" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,1.5,0);ProficiencyBonus(Skill,Stealth)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="WoodElf" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="c0210455-03b5-437c-9d80-3cc4e3c61a9f" />
+                    <attribute id="UUID" type="guid" value="b262db2c-7a80-4c76-a1e8-0efdb9c1db13" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
