@@ -5,14 +5,6 @@
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h2067f72fg0389g42a9g8cafg05bb20757615" version="9"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf59301e4ga0a8g417fg8d4cg400286235cdb" version="9"/>
-                    <attribute id="ExactMatch" type="FixedString" value="WildMagic"/>
-                    <attribute id="Hidden" type="bool" value="false"/>
-                    <attribute id="ProgressionTableId" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
-                    <attribute id="UUID" type="guid" value="ba0d5f1c-0352-4ca2-96dc-dcbd96a29788"/>
-                </node>
-                <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h5246a33abe2d4e71b67d69b312d42fe90c64" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h15362093db71420b8b17e6a8606f32866dg8" version="1" />
                     <attribute id="Hidden" type="bool" value="False" />

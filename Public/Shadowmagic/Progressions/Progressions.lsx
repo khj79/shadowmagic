@@ -5,115 +5,115 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,1);CarryCapacityMultiplier(5)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,1);CarryCapacityMultiplier(5)" />
                     <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L1_SM;Nightfall_SM;ConsumedShadowWeave_SM;ShadowWarMagic_SM;"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L1_SM;Nightfall_SM;ConsumedShadowWeave_SM;ShadowWarMagic_SM;StrengthOfTheGrave"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(ce9c7aa8-de25-4946-84a4-537f5cf31081,,,,AlwaysPrepared);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2,false)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="9ab30b9c-0117-414f-8c88-c6a19c8c6d0f"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
-                    <attribute id="PassivesAdded" type="LSString" value="StrengthOfTheGrave_SM;EyesOfTheDark_SM;ReliableTalent"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DarkFeedback_SM;EyesOfTheDark_SM;ReliableTalent"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="879ec4bd-e2ae-4e6c-b985-45d92e3258c4"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,2);ActionResourceOverride(ShadowSpellSlot,0,1)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,2);ActionResourceOverride(ShadowSpellSlot,0,1)" />
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L2_SM;ShadowPotence_SM"/>
                     <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L1_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(d44b00cf-c899-416a-934d-8c46ec76919e,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="e6071ac3-9689-466f-80cd-9fd9e88a1e44"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="4"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="c376c2c8-a799-4d77-80f6-1c2e5c64424a"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,3);ActionResourceOverride(ShadowSpellSlot,0,2)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,3);ActionResourceOverride(ShadowSpellSlot,0,2)" />
                     <attribute id="Level" type="uint8" value="5"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L3_SM;LunarEclipse_SM"/>
                     <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L2_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(903b3752-18db-4637-bc43-feae85fe5a7b,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="1f8aea58-3568-45ff-af70-dbf4e73e16b8"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="6"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="EdictOfNight_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic);AddSpells(f4791675-9f08-433f-8ee2-e90a5ea072e9,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="10eceeb6-f206-47ce-8507-72491fcf3d20"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,4);ActionResourceOverride(ShadowSpellSlot,0,3);" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,4);ActionResourceOverride(ShadowSpellSlot,0,3);" />
                     <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L4_SM;BlossomOfRuin_SM"/>
                     <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L3_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(a6a11a61-fafa-4acb-a91d-3949ad37a129,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="bcd88e4c-461e-4b89-93f8-d5fe9a76841b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="8"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="8bb13d90-9617-4080-be62-a014a808b778"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,5);ActionResourceOverride(ShadowSpellSlot,0,4)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,5);ActionResourceOverride(ShadowSpellSlot,0,4)" />
                     <attribute id="Level" type="uint8" value="9"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L5_SM;BlackLotus_SM"/>
                     <attribute id="PassivesRemoved" type="LSString" value="BlessingOfTheRavenQueen_L4_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(229cdffc-914e-415f-b30f-ca74a6adf9fa,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="fc4c4a3c-9fd5-4435-a49b-a43bdc1fc9e2"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="10"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="SolarEclipse_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="0b77d044-38cb-46de-b61d-8d029f9c9ba2"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,5,6);ActionResourceOverride(ShadowSpellSlot,0,5)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,6);ActionResourceOverride(ShadowSpellSlot,0,5)" />
                     <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="PassivesAdded" type="LSString" value="MaximizeSpell_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(32cced4a-6c8b-488c-9415-d4cd1e447a39,,,,AlwaysPrepared)"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="466ce7dc-1eec-44c5-a223-d652c7b1a5f2"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="12"/>
-                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="Name" type="LSString" value="ShadowMagic"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="d20fc9b8-28fd-499a-8758-9525a4370a42"/>
                 </node>
                 <!-- Race Progression -->

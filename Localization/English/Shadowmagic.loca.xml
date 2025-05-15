@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    <!-- SubClass ClassDescription, ProgressionDescription, Tag -->
-    <content contentuid="hf59301e4ga0a8g417fg8d4cg400286235cdb" version="9">그림자 마법</content>
-    <content contentuid="h2067f72fg0389g42a9g8cafg05bb20757615" version="9">그림자가 빚은 피조물로서 당신이 타고난 마법은 섀도우펠 그 자체로부터 나옵니다.</content>
     <!-- SubClass Passives -->
     <content contentuid="h448e24c0g67b1g412bg9a37gac344b5f9d0c" version="1">까마귀 여왕의 은총</content>
     <content contentuid="h60e87c33g9823g4e72gaa57gbd2489ecc49e" version="1">어둠의 힘을 타고나 모든 &lt;LSTag Tooltip="Abilities"&gt;능력치&lt;/LSTag&gt;가 [1] 올라갑니다.&lt;br&gt;대화 중 상대방의 생각을 읽을 수 있으며, 야수와 대화할 수 있습니다.</content>
@@ -14,7 +11,7 @@
     <content contentuid="h1c82a11403c54d809ce94523a10a3c39da1g" version="1">그림자 위브를 흡수하여, [1]개의 &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;그림자 주문 슬롯&lt;/LSTag&gt;을 획득합니다. &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;그림자 주문 슬롯&lt;/LSTag&gt;의 레벨은 사용할 수 있는 소서러 주문의 최대 레벨과 항상 동일합니다.</content>
     <content contentuid="h87ed9ce8g71a0g4949gb32dg801243b71090" version="1">전투 마법사</content>
     <content contentuid="h740db083g7d03g4a1eg933bg874eb4713edc" version="1">전투를 위해 육체와 마법 실력을 갈고닦았습니다. 들고 있는 무기가 경량 무기가 아니어도 쌍수 무기로 활용할 수 있으며, 주문을 시전한 뒤 보조 행동으로 무기 공격을 할 수 있습니다.</content>
-    <content contentuid="heee3fefcg2a40g411bga52eg704b66e16d2c" version="1">무덤의 힘</content>
+    <content contentuid="heee3fefcg2a40g411bga52eg704b66e16d2c" version="1">어두운 환류</content>
     <content contentuid="hf60a9b29g1b30g479eg9493g0682a3218bf0" version="1">전투 중 주문울 사용하면 소모한 &lt;LSTag Type="ActionResource" Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt;의 레벨만큼 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;소서리 포인트&lt;/LSTag&gt;를 회복합니다.</content>
     <content contentuid="hbb25b2acg2a69g4bf1ga01cg240f34e3309f" version="1">어둠의 권세</content>
     <content contentuid="h019589f2g0674g4d35gbc83g4ea69c20d930" version="1">매 턴 &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;보조 행동&lt;/LSTag&gt;을 하나 더 획득합니다.&lt;br&gt;&lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위해 필요한 &lt;LSTag Tooltip="AttackRoll"&gt;굴림&lt;/LSTag&gt; 값이 [1] 감소합니다. 이 효과는 중첩됩니다.</content>

@@ -70,7 +70,7 @@ data "Conditions" "not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and not Tur
 data "StatsFunctors" "IF((HasStringInSpellRoll('WeaponAttack') or HasStringInSpellRoll('UnarmedAttack') or SpellId('Target_CommandersStrike') or SpellId('Projectile_ArrowOfSmokepowder')) and HasUseCosts('ActionPoint', true)):ApplyStatus(SELF,INITIAL_ATTACK_TECHNICAL,100,1);IF(IsWeaponAttack() and IsMiss()):ApplyStatus(SELF,INITIAL_ATTACK_STALKERS_FLURRY_TECHNICAL,100,1);IF(IsCantrip() and HasUseCosts('ActionPoint', true)):ApplyStatus(SELF,INITIAL_ATTACK_WAR_MAGIC_TECHNICAL,100,1);IF(IsSpell() and HasUseCosts('ActionPoint', true)):ApplyStatus(SELF,INITIAL_ATTACK_SHADOW_WAR_MAGIC_TECHNICAL_SM,100,1)"
 
 //level 2 passives
-new entry "StrengthOfTheGrave_SM"
+new entry "DarkFeedback_SM"
 type "PassiveData"
 data "DisplayName" "heee3fefcg2a40g411bga52eg704b66e16d2c;1"
 data "Description" "hf60a9b29g1b30g479eg9493g0682a3218bf0;1"
