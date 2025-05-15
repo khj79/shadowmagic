@@ -66,7 +66,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Drow cantrip" />
-                    <attribute id="Spells" type="LSString" value="Target_ShadowStep_SM;Shout_DisguiseSelf_SM" />
+                    <attribute id="Spells" type="LSString" value="Shout_DisguiseSelf_SM" />
                     <attribute id="UUID" type="guid" value="d707ec70-da8a-457b-9b69-7cf5205eef0e" />
                 </node>
                 <node id="SpellList">
