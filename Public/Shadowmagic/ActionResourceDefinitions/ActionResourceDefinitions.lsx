@@ -14,6 +14,15 @@
                     <attribute id="UUID" type="guid" value="77fcde9b-9cda-4fbc-8806-393e26b2f3e1" />
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="True" />
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hb8abe274g41c8g481dgbd39g8a1c1c692457" version="3" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h43f4dbfeg0d62g49eegbecagad62630e032d" version="2" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="ReactionActionPoint" />
+                    <attribute id="ReplenishType" type="FixedString" value="Turn" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="True" />
+                    <attribute id="UUID" type="guid" value="45ff0f48-b210-4024-972f-b64a44dc6985" />
+                </node>
             </children>
         </node>
     </region>
