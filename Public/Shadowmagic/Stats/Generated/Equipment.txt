@@ -5,6 +5,10 @@ add equipment entry "WPN_Longsword"
 add equipmentgroup
 add equipment entry "WPN_Dagger"
 add equipmentgroup
+add equipment entry "WPN_HandCrossbow"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow"
+add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
