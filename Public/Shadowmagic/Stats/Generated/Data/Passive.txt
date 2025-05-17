@@ -265,7 +265,7 @@ new entry "TavernBrawler"
 type "PassiveData"
 using "TavernBrawler"
 data "Description" "h817537527c494f0db72b0be8da85c46720e1;1
-data "Boosts" "IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(ProficiencyBonus);IF(IsRangedUnarmedAttack()):DamageBonus(ProficiencyBonus)"
+data "Boosts" "IF(IsMeleeUnarmedAttack()):RollBonus(Attack, ProficiencyBonus);IF(IsMeleeUnarmedAttack()):CharacterUnarmedDamage(ProficiencyBonus);IF(IsRangedUnarmedAttack()):RollBonus(Attack, ProficiencyBonus);IF(IsRangedUnarmedAttack()):DamageBonus(ProficiencyBonus);IF(HasStatus('SG_Polymorph_BeastShape',context.Source) and not (Tagged('MYRMIDON_AIR',context.Source) or Tagged('MYRMIDON_FIRE',context.Source) or Tagged('MYRMIDON_WATER',context.Source))):DamageBonus(ProficiencyBonus);"
 data "StatsFunctorContext" ""
 data "Conditions" ""
 data "StatsFunctors" ""
