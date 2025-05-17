@@ -131,7 +131,7 @@
     <!-- SpellSniper -->
     <content contentuid="h41d5429ed7dc4760bb59e483aa6aa945gd74" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;&lt;LSTag Tooltip="Cantrip"&gt;소마법&lt;/LSTag&gt;을 배우고, 주문으로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위해 필요한 &lt;LSTag Tooltip="AttackRoll"&gt;굴림&lt;/LSTag&gt; 값이 1 감소합니다. 이 효과는 중첩됩니다.</content>
     <!-- TavernBrawler -->
-    <content contentuid="h0843bf02ec8d49008520b14b95986187g430" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;맨손으로 공격하거나 즉석 무기를 사용하거나 물건을 투척하면, 피해에 근력 &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;를 더합니다.</content>
+    <content contentuid="h0843bf02ec8d49008520b14b95986187g430" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;맨손으로 공격하거나 즉석 무기를 사용하거나 물건을 투척하면, 피해에 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련 보너스&lt;/LSTag&gt;를 더합니다.</content>
     <!-- Tough -->
     <content contentuid="hfa3f717e6d39453a9445f5335c278d0975d8" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;획득한 레벨당 최대 생명력이 2 증가합니다.</content>
     <!-- WarCaster -->
