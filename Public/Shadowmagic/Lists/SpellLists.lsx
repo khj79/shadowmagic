@@ -82,8 +82,8 @@
                     <attribute id="UUID" type="guid" value="1414a1e6-9610-441c-aa09-5c57f4ee9c3d" />
                 </node>
                 <node id="SpellList">
-                    <attribute id="Name" type="FixedString" value="HighElf BoomingBlade" />
-                    <attribute id="Spells" type="LSString" value="Target_BoomingBlade" />
+                    <attribute id="Name" type="FixedString" value="HighElf Light" />
+                    <attribute id="Spells" type="LSString" value="Target_Light" />
                     <attribute id="UUID" type="guid" value="c7e24cb2-b538-4d6f-be14-d89bc14ed0a4" />
                 </node>                
             </children>
