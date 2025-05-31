@@ -137,7 +137,7 @@
     <!-- WarCaster -->
     <content contentuid="hdf1fe06cf124461d8a9f86eabfee20de2340" version="1">한 가지 능력이 1 증가합니다(최대 20). 주문에 대한 &lt;LSTag Tooltip="Concentration"&gt;집중&lt;/LSTag&gt;을 유지할 수 있도록 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받습니다. 또한, 대상이 근거리 공격 범위 밖으로 이동하면 &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt;으로 &lt;LSTag Type="Spell" Tooltip="Target_ShockingGrasp"&gt;전격의 손아귀&lt;/LSTag&gt;를 시전할 수 있습니다.</content>
     <!-- WeaponMaster -->
-    <content contentuid="h32324e1f9e6a4610923308f16a03725ea460" version="1">한 가지 능력이 1 증가합니다(최대 20). 모든 무기에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;되고, 특정 유형의 전투 방식 중 하나를 골라라 특화됩니다.</content>
+    <content contentuid="h32324e1f9e6a4610923308f16a03725ea460" version="1">한 가지 능력이 1 증가합니다(최대 20). 모든 무기에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;되고, 특정 유형의 전투 방식 중 하나를 골라 특화됩니다.</content>
     <!-- Feat Passive or Feat ProgressionDescription -->
     <!-- Actor -->
     <content contentuid="h59f017f949414826ad5fe82c7f15c4685153" version="1">진정한 배우가 됐습니다. 기만 및 공연 &lt;LSTag Tooltip="AbilityCheck"&gt;판정&lt;/LSTag&gt;에서 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련 보너스&lt;/LSTag&gt;가 두 배로 증가합니다.</content>
