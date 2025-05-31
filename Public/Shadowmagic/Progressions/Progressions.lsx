@@ -8,7 +8,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(ShadowSpellSlot,9,1);CarryCapacityMultiplier(5)" />
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="ShadowMagic"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L1_SM;Nightfall_SM;ConsumedShadowWeave_SM;ShadowWarMagic_SM;StrengthOfTheGrave"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BlessingOfTheRavenQueen_L1_SM;Nightfall_SM;ConsumedShadowWeave_SM;ShadowWarMagic_SM;EyesOfTheDark_SM;StrengthOfTheGrave"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(ce9c7aa8-de25-4946-84a4-537f5cf31081,,,,AlwaysPrepared);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2,false);AddSpells(e95177b1-f243-4837-868e-8e84563f518e,,,,AlwaysPrepared))"/>
                     <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
@@ -17,7 +17,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="ShadowMagic"/>
-                    <attribute id="PassivesAdded" type="LSString" value="DarkFeedback_SM;EyesOfTheDark_SM;ReliableTalent"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DarkFeedback_SM;ReliableTalent"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="879ec4bd-e2ae-4e6c-b985-45d92e3258c4"/>

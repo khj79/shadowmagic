@@ -61,7 +61,7 @@
     <!-- Actor -->
     <content contentuid="h7fbc72adef9648e18541fb7e76a2776894eb" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;또한, 기만 및 공연 &lt;LSTag Tooltip="AbilityCheck"&gt;판정&lt;/LSTag&gt;에서 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련 보너스&lt;/LSTag&gt;가 두 배로 증가합니다.</content>
     <!-- Alert -->
-    <content contentuid="h6b3eaa0950334ee79874904148f9951c94a4" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;선제권 굴림에 +1 보너스를 받고, &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;기습당하지&lt;/LSTag&gt; 않습니다.</content>
+    <content contentuid="h6b3eaa0950334ee79874904148f9951c94a4" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;선제권 굴림에 +5 보너스를 받고, &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;기습당하지&lt;/LSTag&gt; 않습니다.</content>
     <!-- Athlete -->
     <content contentuid="h011a74857fd44f7391fda375faf4ce97f5f9" version="1">한 가지 능력이 1 증가합니다(최대 20).&lt;br&gt;넘어졌다 일어설 때 소모되는 이동력이 크게 감소합니다. 또한, &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;도약&lt;/LSTag&gt; 거리가 50% 증가합니다.</content>
     <!-- Charger -->
@@ -164,10 +164,7 @@
     <content contentuid="h817537527c494f0db72b0be8da85c46720e1" version="1">맨손으로 공격하거나 즉석 무기를 사용하거나 물건을 투척하면, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;과 피해에 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련 보너스&lt;/LSTag&gt;를 더합니다.</content>
     <!-- WeaponMaster -->
     <content contentuid="hcf30cf583d894cce84ace39d3a455f1fd2a6" version="1">모든 무기에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;됩니다.</content>
-    <!-- Modified Initiative Rules -->
-    <content contentuid="haa836ee7c3634fa3a7afcf55094f0500ef58" version="1">영향을 받은 대상은 선제권 굴림에 +[1] 보너스를 받고, &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;기습당하지&lt;/LSTag&gt; 않습니다. 마시면 다른 영약의 효과를 대체합니다.</content>
-    <content contentuid="hc486dab9103d4e72b3da57e8c9c55cc3bc11" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;과 포착 &lt;LSTag Tooltip="AbilityCheck"&gt;판정&lt;/LSTag&gt;에 +[1] 보너스를 받고, 선제권 굴림에 +[2] 보너스를 받습니다.</content>
-    <content contentuid="hc27eeb15da104a8dbdee0e6bb82074b70b35" version="1">선제권 굴림에 +1 보너스를 받고, &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;기습당하지&lt;/LSTag&gt; 않습니다. 마시면 다른 영약의 효과를 대체합니다.</content>
+    <!-- Elf Racial Keen Sence -->
     <content contentuid="hac30a79c74b1495a99c657b28e3c927582af" version="1">&lt;LSTag Tooltip="Insight"&gt;통찰&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;포착&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;생존&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Proficiency"&gt;숙련&lt;/LSTag&gt;됩니다.</content>
     <content contentuid="h5fe3b99f73db4709bab61e3ba61049b4bf28" version="1">예리한 감각</content>
     <!-- Celestial Fury -->
