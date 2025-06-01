@@ -17,7 +17,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="ShadowMagic"/>
-                    <attribute id="PassivesAdded" type="LSString" value="DarkFeedback_SM;ReliableTalent"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DarkFeedback_SM;ReliableTalent_SM"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="02d68ea9-5b8d-4f3f-a37a-96ae78d233cd"/>
                     <attribute id="UUID" type="guid" value="879ec4bd-e2ae-4e6c-b985-45d92e3258c4"/>
