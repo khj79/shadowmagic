@@ -300,7 +300,7 @@ data "Icon" "PassiveFeature_FastHands"
 data "Properties" "Highlighted;ForceShowInCC"
 data "Boosts" "ActionResource(BonusActionPoint,1,0)"
 
-// Celestial Fury
+//Celestial Fury
 new entry "MAG_Celestial_Fury_StunnedOnCrit_Passive"
 type "PassiveData"
 data "DisplayName" "hddb5e56e58ac41579efd2f378dc46f3af0da;1"
@@ -317,3 +317,16 @@ data "DisplayName" "h11718600b69e403fb5984b910a4ef1e35364;1"
 data "Description" "hdaded72e86aa43cd8f008041151f24900114;1"
 data "DescriptionParams" "2"
 data "Conditions" "AttackedWithPassiveSourceWeapon() or IsSpell()"
+
+//Fix Annoying Silvanus Idol Aura
+new entry "DEN_SILVANUS_BLESSING"
+type "StatusData"
+data "StatusType" "BOOST"
+// Silvanus' Blessing
+data "DisplayName" "hdc7d0fbcg725eg4534gb980g4950ecf1a02c;2"
+// Has <LSTag Tooltip="Proficiency">Proficiency</LSTag> in <LSTag Tooltip="Nature">Nature</LSTag> and <LSTag Tooltip="AnimalHandling">Animal Handling</LSTag>.
+data "Description" "he7612263g5fc3g4c41gb934gcf3b8eeca3a0;1"
+data "Icon" "statIcons_SilvanusBlessing"
+data "StackId" "DEN_SILVANUS_BLESSING"
+data "Boosts" "ProficiencyBonus(Skill, AnimalHandling);ProficiencyBonus(Skill, Nature)"
+data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog"
