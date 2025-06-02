@@ -319,6 +319,19 @@ data "DescriptionParams" "2"
 data "Conditions" "AttackedWithPassiveSourceWeapon() or IsSpell()"
 
 //Fix Annoying Silvanus Idol Aura
+new entry "DEN_SILVANUS_IDOLAURA"
+type "StatusData"
+data "StatusType" "BOOST"
+// Idyllic Aura
+data "DisplayName" "h884d08e9gfe32g4272g905fg97153e302824;1"
+// Grants Silvanus' Blessing to creatures within range. 
+data "Description" "h0e8b50d1g547ag472eg95e8g3c2b52644512;2"
+data "Icon" "statIcons_SilvanusBlessing"
+data "AuraRadius" "8"
+data "AuraStatuses" "TARGET:IF(Character() and Ally()):ApplyStatus(DEN_SILVANUS_BLESSING)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "StatusEffect" "2c9e60dd-95ce-40b6-b9fd-4a6d7de010b3"
+
 new entry "DEN_SILVANUS_BLESSING"
 type "StatusData"
 data "StatusType" "BOOST"
